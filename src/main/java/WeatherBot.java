@@ -21,9 +21,9 @@ import java.util.Optional;
 
 public class WeatherBot extends TelegramLongPollingBot {
 
-    private final String TOKEN = "5534055670:AAF-joMVMK7r1mzb-IUar3hsrCViLynL4Io";
+    private final String TOKEN = ""; // there should be a bot token here
 
-    private final String Username = "WeatherTestJavaSkidBot";
+    private final String Username = ""; // there should be a bot username here
 
     @Override
     public String getBotToken() {
